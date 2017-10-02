@@ -1,0 +1,45 @@
+/*********************************************************************
+Basic Styles
+**********************************************************************/
+body {
+	padding: 20px 180px;
+	font-family: 'Roboto', sans-serif;
+}
+
+p {
+	display: none;
+}
+
+/*********************************************************************
+Content Styles
+**********************************************************************/
+
+input#search {
+	padding: 10px 20px;
+	width: 40%;
+	border-color: grey;
+}
+
+.head {
+	text-align: center;
+	padding: 20px;
+}
+
+.row1 {
+	display: flex;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	justify-content: space-around;
+}
+
+.row2 {
+	display: flex;
+	padding-bottom: 20px;
+	justify-content: space-around;
+}
+
+.row3 {
+	display: flex;
+	padding-bottom: 20px;
+	justify-content: space-around;
+}
